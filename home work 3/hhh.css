@@ -1,0 +1,68 @@
+
+body {
+
+    background: #19a9d2;
+    background: url("https://w-dog.ru/wallpapers/7/9/469979861101895/art-chenbo-mir-warcraft-devushka-slezy-posox-kristall-razbityj-babochki-artes-lich-dzhajna.jpg");
+}
+
+
+.lol {
+    width: 350px;
+    border: 10px solid #02505b;
+    border-radius: 50%;
+    box-shadow: 10px -10px 50px #8723be;
+
+}
+
+.joj {
+    border-right: 2px solid #030303;
+    width: 600px;
+    background: #73dace;
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 15px;
+    display: flex;
+    margin-bottom: 15px;
+    margin-left: 50%;
+
+}
+
+.wtf {
+    width: 600px;
+    height: auto;
+    padding: 5px;
+    border-left: 5px solid #030303;
+    box-sizing: border-box;
+    background: #564418;
+    border-radius: 12px ;
+    display: flex;
+
+}
+h1 {
+    text-align: center;
+    box-sizing: content-box;
+    color: #f5f2f2;
+}
+
+.cc{
+    border-right: 2px solid #030303;
+    width: 600px;
+    background: #205d0f;
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 15px;
+    display: flex;
+    margin-bottom: 15px;
+    margin-left: 50%;
+}
+.ccc{
+    width: 600px;
+    height: auto;
+    padding: 5px;
+    border-left: 5px solid #030303;
+    box-sizing: border-box;
+    background: #0c3332;
+    border-radius: 12px;
+    display: flex;
+}
+
