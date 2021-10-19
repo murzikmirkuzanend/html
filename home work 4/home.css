@@ -1,0 +1,155 @@
+
+.batia {
+    width: 1600px;
+    height: 800px;
+    background: #dc0606;
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
+    flex-basis: 1600px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+
+}
+.a {
+    background: #0c3332;
+    width: 1600px;
+    height: 400px;
+}
+.b {
+    background: #19a9d2;
+    width: 1200px;
+    height: 400px;
+}
+.c {
+    background: #8723be;
+    width: 400px;
+    height: 400px;
+}
+
+.mama {
+    width: 1600px;
+    height: 800px;
+    background: blue;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+
+
+}
+.two {
+    display: block;
+}
+.q {
+    background: #49f106;
+    width: 1600px;
+    height: 100px;
+
+}
+.w {
+    background: #19a9d2;
+    width: 1600px;
+    height: 100px;
+
+}
+.e {
+    background: black;
+    width: 400px;
+    height: 400px;
+float: right;
+}
+.r {
+    background: brown;
+    width: 1200px;
+    height: 400px;
+    float: bottom;
+
+
+}
+.t {
+    background: coral;
+    width: 1600px;
+    height: 200px;
+}
+
+.deda{
+    width: 1600px;
+    height: 1400px;
+    background: cadetblue;
+    margin-bottom: 20px;
+}
+.aa{
+    background: yellow;
+    width: 1600px;
+    height: 400px;
+}
+.qq{
+    background: #000;
+    width: 400px;
+    height: 600px;
+    float: left;
+}
+.ss{
+    background: #5e0a9a;
+    width: 1600px;
+    height: 300px;
+    display: block;
+}
+.ee{
+    background:#564418;
+    width: 1600px;
+    height: 300px;
+
+}
+.cc{
+    background: #49f106;
+    width: 1600px;
+    height: 400px;
+}
+
+.baba{
+    width: 1600px;
+    height: 800px;
+    background: #0c3332;
+
+
+}
+.zzzz{
+
+    display: table-cell;
+}
+.aaa{
+    width: 1600px;
+    height: 200px;
+    background: #dc0606;
+
+
+}
+    .sss{
+        width: 600px;
+        height: 400px;
+        background: #0d2503;
+        float: left;
+
+
+    }
+    .zzz{
+        width: 600px;
+        height: 400px;
+        background: #dacfa5;
+        align-self: center;
+
+    }
+    .xxx{
+        width: 600px;
+        height: 400px;
+        background: aqua;
+
+
+    }
+    .ccc{
+        width: 1600px;
+        height: 200px;
+        background: yellow;
+        float: bottom;
+
+    }
