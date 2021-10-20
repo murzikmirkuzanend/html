@@ -1,0 +1,42 @@
+.baba{
+    background: #ff0000;
+    width: 1600px;
+    border-radius: 25px;
+    border: 5px solid #030303;
+    margin: 0 auto;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.a{
+    height: 150px;
+    background: #73dace;
+    margin-bottom: 5px;
+}
+.flax{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.s{
+    height: 300px;
+    background: #73dace;
+    width: 70%;
+    margin-right: 5px;
+}
+.d{
+    height: 300px;
+    background: #73dace;
+    width: 70%;
+    margin-right: 5px;
+
+}
+.q{
+    height: 300px;
+    background: #73dace;
+    width: 70%;
+}
+.w{
+    background: #73dace;
+    height: 600px;
+   margin-top: 5px;
+}

@@ -1,0 +1,45 @@
+.mama{
+    background: #090808;
+    width: 1600px;
+    border-radius: 10px;
+    border: 6px solid #dc0606;
+    margin: 0 auto;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.flax{
+    display: flex;
+    justify-content: space-between;
+}
+.a{
+    height: 150px;
+    background: #dacfa5;
+    margin-bottom: 5px;
+}
+.b{
+    height: 150px;
+    background: #dacfa5;
+}
+.q{
+    height: 300px;
+    background: #dacfa5;
+    display: flex;
+    width: 70%;
+    column-gap: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+
+}
+.w{
+    height: 300px;
+    background: #dacfa5;
+    width: 30%;
+    column-gap: 10px;
+    margin-top: 5px;
+}
+.s{
+    background: #dacfa5;
+    height: 150px;
+    margin-top: 5px;
+
+}
