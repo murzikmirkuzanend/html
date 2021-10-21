@@ -1,0 +1,36 @@
+
+.batia {
+    width: 1600px;
+    background: #dc0606;
+    border-radius: 8px;
+    border: 5px solid #dacfa5;
+    margin: 0 auto;
+    padding: 5px;
+    box-sizing: border-box;
+
+}
+.mom{
+
+    height: 150px;
+    background: #b10de3;
+    width: 50%;
+    column-gap: 5px;
+
+
+}
+.flax {
+    display: flex;
+    justify-content: space-between;
+}
+
+.a {
+    height: 150px;
+    background: #b10de3;
+    margin-bottom: 5px;
+}
+
+.b {
+    margin-right: 5px;
+}
+
+

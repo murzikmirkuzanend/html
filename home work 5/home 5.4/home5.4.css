@@ -1,0 +1,35 @@
+.baba{
+    background: #ff0000;
+    width: 1600px;
+    border-radius: 25px;
+    border: 5px solid #030303;
+    margin: 0 auto;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.flax{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.margin{
+margin-right: 5px;
+}
+.color{
+background: yellow;
+}
+
+.h300{
+    height: 300px;
+    width: 70%;
+}
+.a{
+    height: 150px;
+    margin-bottom: 5px;
+}
+
+.w{
+    height: 600px;
+    margin-top: 5px;
+}

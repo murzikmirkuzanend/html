@@ -1,0 +1,55 @@
+.deda {
+    background: #49f106;
+    width: 1600px;
+    border: 5px solid #73dace;
+    border-radius: 15px;
+    margin: 0 auto;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.flax {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.col {
+    background: #d002f1;
+    height: 600px;
+}
+
+.a {
+    height: 150px;
+    margin-bottom: 5px;
+}
+
+.z {
+    height: 605px;
+    width: 40%;
+}
+
+.mom {
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.s {
+    width: 1000px;
+    margin-left: 5px;
+
+}
+
+.d {
+    height: 100%;
+    width: 1000px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.q {
+    height: 150px;
+    margin-top: 5px;
+}

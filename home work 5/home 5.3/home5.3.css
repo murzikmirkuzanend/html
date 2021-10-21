@@ -1,0 +1,37 @@
+.mama{
+    background: #090808;
+    width: 1600px;
+    border-radius: 10px;
+    border: 6px solid #dc0606;
+    margin: 0 auto;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.flax{
+    display: flex;
+    justify-content: space-between;
+}
+.margin{
+    margin-top: 5px;
+}
+.color{
+    background: aqua;
+}
+.h300{
+    height: 300px;
+    column-gap: 10px;
+}
+.h150{
+    height: 150px;
+}
+.a{
+    margin-bottom: 5px;
+}
+
+.q{
+    width: 70%;
+    margin-right: 5px;
+}
+.w {
+    width: 30%;
+}
