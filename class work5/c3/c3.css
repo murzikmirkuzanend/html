@@ -1,0 +1,35 @@
+.conteiner{
+    background: #d7d711;
+    border: 5px solid #73dace;
+    margin: 0 auto;
+    padding: 5px;
+    border-radius: 15px ;
+    width: 1000px;
+}
+.color{
+    background: rgb(218, 91, 91);
+}
+.h500{
+    height: 500px;
+}
+
+.top{
+    width: 50%;
+}
+.col{
+    column-gap: 5px;
+}
+.header{
+    display: flex;
+}
+.main{
+    height: 300px;
+    margin-top: 5px;
+}
+.botom{
+    display: flex;
+}
+.a{
+    width: 40%;
+    margin-top: 5px;
+}

@@ -1,0 +1,38 @@
+.conteiner{
+    background: #030303;
+    border: 5px solid #dacfa5;
+    margin: 0 auto;
+    width: 1000px;
+    padding: 5px;
+    border-radius: 15px;
+}
+.h150{
+    height: 150px;
+}
+.flex{
+    display: flex;
+}
+.gep{
+    column-gap: 5px;
+}
+.color{
+    background: rgba(252, 250, 250, 0.57);
+}
+.w33{
+    width: 33.33%;
+}
+
+.header{
+    margin-bottom: 5px;
+}
+.s{
+    margin-bottom: 5px;
+}
+.left{
+    flex-direction: column-reverse;
+    width: 80%;
+}
+
+.right{
+    flex-grow: 1;
+}
