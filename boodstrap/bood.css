@@ -1,0 +1,113 @@
+.header {
+    background: rgba(255, 255, 255, 0.3);
+    mix-blend-mode: normal;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    box-shadow: 0px -1px 10px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(20px);
+}
+.conteiner{
+
+}
+.navbar-light .navbar-nav .nav-link{
+    border: 2px solid transparent;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{
+    color: #2E75FF;
+    border: 2px solid #EAEDF5;
+    box-sizing: border-box;
+    border-radius: 8px;
+
+}
+.center{
+    max-width: 1900px;
+}
+.center-left{
+    margin-top: 100px;
+}
+.center h1{
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 55px;
+    letter-spacing: -0.4px;
+    color: #1652AC;
+
+}
+.center p{
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 32px;
+    letter-spacing: -0.4px;
+    color: #020303;
+    margin-top: 207px;
+    position: relative;
+}
+.center p::before,
+.center p::after{
+content: "";
+    display: block;
+    position: absolute;
+    width: 227px;
+    height: 7px;
+    background-color: #EDEFF3
+}
+.center p::before{
+    top: -55px;
+}
+.center p::after{
+    bottom: -55px;
+}
+.center1 h1{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 2.42px;
+    color: #1652AC;
+}
+.center1 p{
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 32px;
+    color: #45494F;
+}
+.center2 {
+    background:  linear-gradient(180deg, #163DA2 0%, #003584 100%);;
+}
+.center2 h1{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 2.42px;
+    color: #FBFDFF;
+    margin-top: 347px;
+}
+.center2 p{
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 32px;
+    color: #FBFDFF;
+
+}
+.center2 img{
+    margin-top: -100px;
+}
+.center3 h1{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 2.42px;
+    text-transform: uppercase;
+    color: #1652AC;
+}
+.center3 p{
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 32px;
+     color: #45494F;
+}
+.center3 img{
+    margin-left: 255px;
+}
