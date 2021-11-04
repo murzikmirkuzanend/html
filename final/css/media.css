@@ -1,0 +1,195 @@
+@media screen and (max-width: 400px) {
+    .top2, .top1, .top6 {
+        display: none;
+    }
+
+    .conteiner1 {
+        display: flex;
+    }
+
+    .top7 {
+        display: flex;
+    }
+
+    .top8 p {
+        width: 195px;
+    }
+
+    .top8 {
+        margin-left: -230px;
+    }
+
+    .top3__top {
+        margin-top: 20px;
+    }
+
+    .top3__left1, .top3__center {
+        display: none;
+    }
+
+    .top3__left {
+        height: 90px;
+
+    }
+
+    .top3___left {
+        height: 70px;
+        width: 70px;
+    }
+
+    .rit {
+        display: block;
+        margin-left: -100px;
+    }
+
+    .top3__right {
+        margin-top: 15px;
+    }
+
+    .top3__down__left1 p {
+        display: none;
+
+    }
+
+    .top3__down__left1 img {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .wid500 {
+        width: 150px;
+    }
+
+    .rid {
+        display: none;
+    }
+
+    .top3__down__left p {
+        display: none;
+    }
+
+    .top3__down__left img {
+        margin-top: 5px;
+
+    }
+
+    .rol img {
+
+        height: 127px;
+        width: 200px;
+        margin-top: -215px;
+        margin-left: 23px;
+    }
+
+    .ros img {
+        height: 12px;
+        width: 12px;
+        margin-top: -5px;
+        margin-left: 0;
+        margin-right: 5px;
+    }
+
+    .roi h1 {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        color: #0A1A2C;
+    }
+
+    .roi h2 {
+        font-weight: normal;
+        font-size: 10px;
+        line-height: 12px;
+        /* identical to box height */
+
+        text-decoration-line: underline;
+
+        color: #717171;
+    }
+
+    .roi h4 {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 23px;
+
+        color: #005BB9;
+
+    }
+
+    .roi p {
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+        text-decoration-line: line-through;
+
+        color: #C2C5DA;
+    }
+
+    .roi {
+        margin-top: -255px;
+        margin-left: 317px;
+    }
+
+
+    .slaider1__right__botom {
+        margin-top: 82px;
+        margin-left: -357px;
+    }
+
+    .slaider1__right__top {
+        /*display: none;*/
+    }
+
+    .conteiner4 {
+        display: flex;
+        margin-left: -25px;
+
+    }
+
+    .wids, .wid {
+        margin-left: 5px;
+    }
+
+    .conteiner5 {
+        display: block;
+        margin-left: 15px;
+    }
+
+    .conteiner6 {
+        display: none;
+    }
+
+    .bot_top_bot {
+        display: block;
+
+    }
+
+    .bot_top_top p {
+        margin-left: 125px;
+    }
+
+    .bot_top_bot1 {
+        margin-left: 45px;
+    }
+
+    .bot_bot {
+        height: 1357px;
+        margin-top: 1000px;
+        display: block;
+    }
+
+    .bot__bot1 {
+        display: block;
+        margin-left: -130px;
+    }
+
+    .wod500 {
+        width: 200px;
+    }
+
+    .bot__bot2 p{
+        margin-left: -321px;
+        width: 340px;
+    }
+}
