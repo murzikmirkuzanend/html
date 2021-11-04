@@ -21,7 +21,8 @@
     padding-top: 6px;
 
 }
-.rit{
+
+.rit {
     display: flex;
 }
 
@@ -32,7 +33,8 @@
 .top6 p {
     margin-left: 200px;
 }
-.top7{
+
+.top7 {
     display: none;
 }
 
@@ -120,17 +122,21 @@
     text-decoration-line: underline;
     color: #0F2438;
 }
-.top3__right1{
+
+.top3__right1 {
     margin-left: 25px;
 }
-.top3__down__left1 img{
+
+.top3__down__left1 img {
     display: none;
 }
-.top3__down__left button{
+
+.top3__down__left button {
     display: flex;
     column-gap: 5px;
 }
-.top3__down__left img{
+
+.top3__down__left img {
     margin-top: 9px;
 }
 
@@ -371,6 +377,7 @@
     display: flex;
     align-items: center;
     color: #FFFFFF;
+    padding-top: 10px;
 }
 
 .mal {
@@ -473,8 +480,9 @@
     line-height: 19px;
     display: flex;
     align-items: center;
-
     color: #FFFFFF;
+    margin-top: 10px;
+    margin-left: 9px;
 }
 
 .center__top5 {
@@ -485,6 +493,9 @@
 .sol {
     width: 150px;
     display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
 }
 
 .conteiner5 {
@@ -494,11 +505,14 @@
     align-items: center;
     margin-top: 15px;
 }
-.conteiner6{ display: flex;
-column-gap: 25px;
-justify-content: center;
-align-items: center;
-margin-top: 15px;}
+
+.conteiner6 {
+    display: flex;
+    column-gap: 25px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
 
 .center____top1 {
     width: 39px;
@@ -561,6 +575,7 @@ margin-top: 15px;}
     font-size: 16px;
     line-height: 19px;
     align-items: center;
+    margin-top: 7px;
 }
 
 .bot_top_top p {
@@ -637,7 +652,8 @@ margin-top: 15px;}
     width: 284px;
     height: 140px;
 }
-.bot____top4 p{
+
+.bot____top4 p {
     width: 191px;
     height: 38px;
     font-weight: normal;
@@ -646,7 +662,8 @@ margin-top: 15px;}
     text-decoration-line: underline;
     color: #005BB9;
 }
-.bot_____top4 p{
+
+.bot_____top4 p {
     width: 268px;
     height: 38px;
     font-weight: normal;
@@ -655,7 +672,8 @@ margin-top: 15px;}
     text-decoration-line: underline;
     color: #005BB9;
 }
-.bot______top4 p{
+
+.bot______top4 p {
     width: 278px;
     height: 38px;
     font-weight: normal;
@@ -665,36 +683,41 @@ margin-top: 15px;}
     color: #005BB9;
 }
 
-.bot_bot{
+.bot_bot {
     width: 100%;
     height: 408px;
     background: #0C1A2A;
     margin-top: 250px;
     align-items: center;
 }
-.bot__bot1{
+
+.bot__bot1 {
     display: flex;
     justify-content: center;
 }
-.bot___bot1, .bot___bot2, .bot___bot3, .bot___bot4, .bot___bot5{
+
+.bot___bot1, .bot___bot2, .bot___bot3, .bot___bot4, .bot___bot5 {
     display: block;
     margin-left: 150px;
     margin-top: 45px;
 }
-.bot__left1{
+
+.bot__left1 {
     font-weight: 500;
     font-size: 18px;
     line-height: 21px;
-     color: #868DAC;
+    color: #868DAC;
 }
-.bot__left2{
+
+.bot__left2 {
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
     color: #FFFFFF;
     margin-top: 15px;
 }
-.bot___left2{
+
+.bot___left2 {
     width: 276px;
     height: 32px;
     font-weight: 500;
@@ -703,7 +726,8 @@ margin-top: 15px;}
     color: #FFFFFF;
     margin-top: 15px;
 }
-.bot____left2{
+
+.bot____left2 {
     width: 168px;
     height: 32px;
     font-weight: 500;
@@ -712,20 +736,23 @@ margin-top: 15px;}
     color: #FFFFFF;
     margin-top: 15px;
 }
-.wod500{
+
+.wod500 {
     width: 400px;
     height: 40px;
 }
-.bot__left3{
+
+.bot__left3 {
     font-weight: 500;
     font-size: 16px;
     line-height: 19px;
-   color: #FFFFFF;
+    color: #FFFFFF;
     width: 125px;
     height: 19px;
     margin-top: 15px;
 }
-.bot__left4{
+
+.bot__left4 {
     width: 240px;
     height: 21px;
     font-weight: normal;
@@ -734,7 +761,8 @@ margin-top: 15px;}
     color: #858CAB;
     margin-top: 15px;
 }
-.bot__left5{
+
+.bot__left5 {
     margin-top: 15px;
     width: 343px;
     height: 42px;
@@ -753,21 +781,25 @@ margin-top: 15px;}
     text-align: center;
     color: #FFFFFF;
 }
-.w150{
+
+.w150 {
     width: 125px;
     height: 40px;
 }
-.bot__left7{
+
+.bot__left7 {
     display: flex;
     justify-content: center;
     column-gap: 65px;
     margin-top: 15px;
 }
-.bot___bot5{
+
+.bot___bot5 {
     display: block;
     margin-left: -290px;
 }
-.bot__bot2 p{
+
+.bot__bot2 p {
     width: 325px;
     height: 20px;
     font-weight: normal;
@@ -776,7 +808,8 @@ margin-top: 15px;}
     color: #737E9B;
 
 }
-.bot__bot2{
+
+.bot__bot2 {
     margin-top: 15px;
     margin-left: 350px;
 }

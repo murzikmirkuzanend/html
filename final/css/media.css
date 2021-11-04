@@ -133,12 +133,12 @@
 
 
     .slaider1__right__botom {
-        margin-top: 82px;
-        margin-left: -357px;
+        margin-top: 295px;
+        margin-left: 250px;
     }
 
     .slaider1__right__top {
-        /*display: none;*/
+        display: none;
     }
 
     .conteiner4 {
@@ -188,8 +188,25 @@
         width: 200px;
     }
 
-    .bot__bot2 p{
+    .bot__bot2 p {
         margin-left: -321px;
         width: 340px;
     }
+
+    .slaider2__one {
+        margin-left: -792px;
+    }
+
+
+    .slaider1__left {
+        width: 18px;
+        height: 250px;
+        display: flex;
+        margin-top: 30px;
+        margin-left: -280px;
+
+    }
+
+
+
 }
